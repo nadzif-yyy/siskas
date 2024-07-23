@@ -1,0 +1,39 @@
+.banner {
+    background: url("https://www.sahabatyatim.com/wp-content/uploads/2024/03/Foto-Asrama-Graha-1024x590.webp")
+        no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #35a4ff;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.sosmed img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background-color: #479dff;
+}
+
+#button:hover {
+    background-color: rgba(105, 105, 113, 0.404);
+    color: white;
+}
+
